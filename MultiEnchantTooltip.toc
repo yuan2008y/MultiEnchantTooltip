@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: MultiEnchantTooltip
+## Notes: 显示物品的多个附魔效果
+## Author: YourName
+## Version: 1.0
+
+MultiEnchantTooltip.lua 
